@@ -6,7 +6,7 @@
       <Length>16</Length>
       <Diameter>2.242</Diameter>
       <Shape>Conical</Shape>
-      <BluntRadius>0.08</BluntRadius>
+      <BluntRadius>0.05</BluntRadius>
       <Location>0</Location>
       <Color>Blue</Color>
     </NoseCone>
@@ -70,7 +70,7 @@
       <Location>57.6999</Location>
       <Color>Black</Color>
       <BoattailLength>1.305</BoattailLength>
-      <BoattailRearDiameter>1.875</BoattailRearDiameter>
+      <BoattailRearDiameter>1.87</BoattailRearDiameter>
       <BoattailOffset>0</BoattailOffset>
       <Overhang>0</Overhang>
       <Fin>
@@ -82,20 +82,20 @@
         <Thickness>0.125</Thickness>
         <LERadius>0.03</LERadius>
         <Location>8.5</Location>
-        <AirfoilSection>Double Wedge</AirfoilSection>
-        <FX1>3</FX1>
-        <FX3>0.3</FX3>
+        <AirfoilSection>Hexagonal</AirfoilSection>
+        <FX1>1.33</FX1>
+        <FX3>0.34</FX3>
       </Fin>
     </BodyTube>
     <BoatTail>
       <PartType>BoatTail</PartType>
       <Length>1.305</Length>
       <Diameter>2.242</Diameter>
-      <RearDiameter>1.875</RearDiameter>
+      <RearDiameter>1.87</RearDiameter>
       <Location>66.19991</Location>
       <Color>Blue</Color>
     </BoatTail>
-    <Surface>Rough Camouflage Paint</Surface>
+    <Surface>Camouflage Paint</Surface>
     <CP>0</CP>
     <ModifiedBarrowman>True</ModifiedBarrowman>
     <Turbulence>True</Turbulence>
@@ -111,7 +111,7 @@
     <Pressure>25.85</Pressure>
     <RodAngle>2</RodAngle>
     <RodLength>96</RodLength>
-    <Temperature>44.74</Temperature>
+    <Temperature>70</Temperature>
     <WindSpeed>4.47</WindSpeed>
   </LaunchSite>
   <Recovery>
@@ -133,7 +133,7 @@
     <Simulation>
       <SustainerEngine>M1378LR  (Loki)</SustainerEngine>
       <SustainerLaunchWt>12.65</SustainerLaunchWt>
-      <SustainerNozzleDiameter>1</SustainerNozzleDiameter>
+      <SustainerNozzleDiameter>1.58</SustainerNozzleDiameter>
       <SustainerCG>41.49</SustainerCG>
       <SustainerIgnitionDelay>0</SustainerIgnitionDelay>
       <Booster1LaunchWt>0</Booster1LaunchWt>
@@ -148,9 +148,9 @@
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-      <TimetoApogee>47.35806</TimetoApogee>
-      <MaxAltitude>49697.95</MaxAltitude>
-      <MaxVelocity>3259.82</MaxVelocity>
+      <TimetoApogee>56.29656</TimetoApogee>
+      <MaxAltitude>65127.27</MaxAltitude>
+      <MaxVelocity>3464.132</MaxVelocity>
       <OptimumWt>10.26471</OptimumWt>
       <OptimumMaxAlt>10.26471</OptimumMaxAlt>
     </Simulation>
