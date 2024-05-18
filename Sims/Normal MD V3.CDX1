@@ -63,7 +63,7 @@
       <Location>62.83</Location>
       <Color>Blue</Color>
     </BoatTail>
-    <Surface>Camouflage Paint</Surface>
+    <Surface>Smooth Paint</Surface>
     <CP>0</CP>
     <ModifiedBarrowman>True</ModifiedBarrowman>
     <Turbulence>True</Turbulence>
@@ -100,9 +100,9 @@
   <SimulationList>
     <Simulation>
       <SustainerEngine>M1378LR  (Loki)</SustainerEngine>
-      <SustainerLaunchWt>12.65</SustainerLaunchWt>
+      <SustainerLaunchWt>12.7</SustainerLaunchWt>
       <SustainerNozzleDiameter>1.58</SustainerNozzleDiameter>
-      <SustainerCG>41.49</SustainerCG>
+      <SustainerCG>42.57</SustainerCG>
       <SustainerIgnitionDelay>0</SustainerIgnitionDelay>
       <Booster1LaunchWt>0</Booster1LaunchWt>
       <Booster1SeparationDelay>0</Booster1SeparationDelay>
@@ -116,9 +116,9 @@
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-      <TimetoApogee>56.52652</TimetoApogee>
-      <MaxAltitude>65544.2</MaxAltitude>
-      <MaxVelocity>3467.675</MaxVelocity>
+      <TimetoApogee>57.11642</TimetoApogee>
+      <MaxAltitude>66618.91</MaxAltitude>
+      <MaxVelocity>3474.444</MaxVelocity>
       <OptimumWt>10.26471</OptimumWt>
       <OptimumMaxAlt>10.26471</OptimumMaxAlt>
     </Simulation>
