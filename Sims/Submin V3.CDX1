@@ -5,8 +5,8 @@
       <PartType>NoseCone</PartType>
       <Length>13</Length>
       <Diameter>2.13</Diameter>
-      <Shape>Conical</Shape>
-      <BluntRadius>0.03</BluntRadius>
+      <Shape>Von Karman Ogive</Shape>
+      <BluntRadius>0.074</BluntRadius>
       <Location>0</Location>
       <Color>Blue</Color>
     </NoseCone>
@@ -140,9 +140,9 @@
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-      <TimetoApogee>61.73565</TimetoApogee>
-      <MaxAltitude>77501.47</MaxAltitude>
-      <MaxVelocity>3844.397</MaxVelocity>
+      <TimetoApogee>61.26572</TimetoApogee>
+      <MaxAltitude>76569.65</MaxAltitude>
+      <MaxVelocity>3837.721</MaxVelocity>
       <OptimumWt>9.684859</OptimumWt>
       <OptimumMaxAlt>9.684859</OptimumMaxAlt>
     </Simulation>
